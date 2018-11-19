@@ -1,0 +1,48 @@
+body {
+  font-family:"HelveticaNeue";
+  color:#1f1f1f;
+  text-align:left;
+  margin:0px;
+  padding:0px;
+  font-size: 16px;
+  padding: 12px;
+}
+
+ul {
+  list-style-type: none;
+  padding:0px;
+  margin: 0px;
+}
+
+.page-title {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 24px;
+}
+
+.section-name {
+  font-style: italic; 
+  margin: 8px 0;
+}
+
+ul.paper-list {
+  margin-bottom: 24px;
+}
+
+ul.paper-list .title {
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+ul.paper-list ul.links li {
+  display: inline-block;
+  margin-right: 8px;
+}
+
+.title a {
+  text-decoration: none;
+  color: #1f1f1f;
+}
+.title a:hover {
+  text-decoration: underline;
+}
